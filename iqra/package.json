@@ -1,7 +1,7 @@
 {
   "name": "iqra",
   "version": "0.1.0",
-  "homepage": "https://<Username>.github.io/<Repository-name>",
+  "homepage": "https://omar-magdy-1111.github.io/Iqra<Repository-name>",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
